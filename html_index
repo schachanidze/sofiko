@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sofia Chachanidze</title>
+    <style>
+      img {
+        max-width: 500px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Sofia Chachanidze</h1>
+    <p>
+      WHO ARE YOU <br />
+      <i>GLOBLISATION MIGRATION BIG TECH</i>
+    </p>
+
+    <div>
+      <img src="media/_D9A9966.jpg" alt="" />
+    </div>
+
+    <h2>Work</h2>
+    <section>
+      <h3>Skolkovo Foundation IT Cluster</h3>
+      <i>Assistant Manager</i> at
+      <a target="_blank" href="https://old.sk.ru/foundation/about/"> https://old.sk.ru/foundation/about/ </a>
+      <p>
+        Assistance with IT accelerator
+      </p>
+      <p>2020-2021</p>
+    </section>
+    <section>
+      <h3>Belong Agency</h3>
+      <i>PR perosn </i> at
+      <a target="_blank" href="https://www.belongers.ru/">
+        https://www.belongers.ru/
+      </a>
+      <p>
+        What did I do for PR in Russia oh WoW
+        <a href="https://www.bloomberg.com/pursuits/property-listings/"
+          >Bloomberg</a
+        >
+      </p>
+      <p>2018-2019</p>
+    </section>
+    <hr />
+    <p>&copy; 2020</p>
+    <a href="mailto:sofia.chachanidze@gmail.com">sofia.chachanidze@gmail.com</a>
+    <p>
+      <a target="_blank" href="https://www.facebook.com/sofiko">Facebook</a>
+
+      <a
+        target="_blank"
+        href="https://twitter.com/sofikowasonline"
+        >Twitter</a>
+
+    </p>
+  </body>
+</html>
